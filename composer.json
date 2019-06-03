@@ -1,5 +1,5 @@
 {
-  "name": "fingo/laravel-cache-fallback",
+  "name": "jakubwrona/laravel-cache-fallback",
   "type": "library",
   "description": "Provides fallback mechanisms for cache handlers",
   "keywords": [
@@ -11,7 +11,7 @@
     "laravel-cache-fallback"
   ],
   "license": "Apache-2.0",
-  "homepage": "https://github.com/fingo/laravel-cache-fallback",
+  "homepage": "https://github.com/jakubwrona/laravel-cache-fallback",
   "authors": [
     {
       "name": "Hubert Jedrzejek",
